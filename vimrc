@@ -1,0 +1,13 @@
+set shortmess=I
+set nu
+set nobackup
+set nowritebackup
+set noswapfile
+set backupdir=~/.vim/backup
+set directory=~/.vim/tmp
+set expandtab
+set shiftwidth=2
+set softtabstop=2
+set autoindent
+set backspace=indent,eol,start 
+syntax on
